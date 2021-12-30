@@ -1,2 +1,4 @@
 # SMU-algorithm-python
-algorithm study
+```
+Algorithm Python study
+```
